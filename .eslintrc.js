@@ -11,6 +11,7 @@ module.exports = {
   ],
   plugins: [
   ],
+  ignorePatterns: ['docs/**/*.js'],
   // add your custom rules here
   rules: {}
 }
