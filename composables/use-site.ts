@@ -12,7 +12,7 @@ export function useSite() {
       },
       {
         title: 'Email',
-        value: 'mail@novweb.ru',
+        value: 'novweb@icloud.com',
         type: 'email',
       },
       {
