@@ -50,7 +50,7 @@
     "stylelint": "^13.13.1",
     "stylelint-config-prettier": "^8.0.2",
     "stylelint-config-standard": "^22.0.0",
-    "unplugin-vue2-script-setup": "^0.6.15",
+    "unplugin-vue2-script-setup": "^0.6.16",
     "vue-tsc": "^0.29.4"
   }
 }
